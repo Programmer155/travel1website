@@ -1,0 +1,15 @@
+VERCEL DEPLOY SETTINGS
+
+Root Directory:
+luxury-blue-react-node/frontend
+
+Framework:
+Vite
+
+Build Command:
+npm run build
+
+Output Directory:
+dist
+
+vercel.json is included for SPA route rewrites.
